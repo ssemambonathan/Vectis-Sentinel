@@ -1,0 +1,11 @@
+Vectis-Sentinel/
+├── README.md
+├── requirements.txt
+├── pi_controller/
+│   ├── __init__.py
+│   ├── config.py
+│   ├── tracker.py
+│   └── serial_comm.py
+└── arduino_firmware/
+    └── sentinel_firmware/
+        └── sentinel_firmware.ino
